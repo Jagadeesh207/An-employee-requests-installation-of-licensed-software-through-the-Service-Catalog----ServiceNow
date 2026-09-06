@@ -1,0 +1,2 @@
+# An-employee-requests-installation-of-licensed-software-through-the-Service-Catalog----ServiceNow
+This project streamlines licensed software installation requests through a Service Catalog. Employees can submit requests, which follow approval workflows before IT installation. It improves efficiency, ensures license compliance, enhances security, reduces manual effort, and provides centralized tracking.
